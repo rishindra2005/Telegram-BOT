@@ -99,7 +99,7 @@ A versatile bot with image recognition capabilities:
 Each bot can be run individually:
 
 ```bash
-# For Varsha Bot (Personal Companion)
+# For Rishi <3  Bot (Personal Companion)
 python3 gem3.py
 
 # For College Bot (Application Assistant)
