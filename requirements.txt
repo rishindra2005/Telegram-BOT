@@ -1,0 +1,27 @@
+# Core dependencies for Telegram bot
+aiogram==3.2.0
+
+# Google Generative AI
+google-generativeai==0.3.1
+
+# Image processing
+Pillow==10.1.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTTP requests
+requests==2.31.0
+
+# Markdown support
+markdown==3.5.1
+
+# Additional utilities
+asyncio==3.4.3
+telethon==1.33.1
+vertexai==0.0.1
+
+# Optional dependencies based on code structure
+# For visualization models
+matplotlib==3.8.1
+numpy==1.26.2 

@@ -1,0 +1,25 @@
+
+7464571551:AAHVI_1lyg3G86hEZIk42QMms6gTfhWEohg -- varsha
+7490437227:AAE1AsN64MgChDctEEOFwCE11DXkaTtxFHA -- colege
+ssh -i C:\Users\rishi\Downloads\rishiV-1_key.pem azureuser@4.213.201.60
+
+source myenv/bin/activate
+"""""""""""""
+
+cd rishi_telegram/telegram_bot
+sudo apt install python3-venv
+python3 -m venv myenv
+source myenv/bin/activate
+python your_script.py
+nohup python3 gem3.py &
+deactivate
+
+"""""""""""""
+ps aux | grep python
+# ps aux | grep my_script.py
+kill <pip id>
+  
+
+markdown
+aiogram
+google-generativeai
